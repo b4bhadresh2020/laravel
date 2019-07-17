@@ -13,7 +13,7 @@
   
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=<Database Name>
+    DB_DATABASE=[Database Name]
     DB_USERNAME=<Database Username>
     DB_PASSWORD=<Database password>
     
