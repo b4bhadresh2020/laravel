@@ -15,7 +15,7 @@
     
     DB_PORT=<3306>
     
-    DB_DATABASE=<db_name>
+    DB_DATABASE=royal_trading
     
     DB_USERNAME=<db_user>
     
