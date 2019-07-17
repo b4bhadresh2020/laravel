@@ -15,13 +15,12 @@
     
     DB_PORT=<3306>
     
-    DB_DATABASE=<Database Name>
+    DB_DATABASE=<db_name>
     
-    DB_USERNAME=<Database Username>
+    DB_USERNAME=<db_user>
     
-    DB_PASSWORD=<Database password>
-    
-    
+    DB_PASSWORD=<db_password>
+        
   - Clear config cache: ```php artisan config:cache```
   - Running Migrations Database: ```php artisan migrate:fresh```
   
